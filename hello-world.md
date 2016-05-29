@@ -2,4 +2,4 @@ hello world
 a second line
 a third line
 
-A local change.
+local or remote changes are fine
